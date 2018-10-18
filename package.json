@@ -1,0 +1,25 @@
+{
+  "name": "lirinodeapp",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YslasCo/lirinodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YslasCo/lirinodeapp/issues"
+  },
+  "homepage": "https://github.com/YslasCo/lirinodeapp#readme",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "key.js": "^1.0.7",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}
